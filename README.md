@@ -6,4 +6,4 @@ Une application de calculatrice simple et fonctionnelle développée avec **Tkin
 - Interface graphique intuitive.
 - Gestion des erreurs de calcul (ex: division par zéro).
 - Code structuré et commenté.
-![Démonstration de la calculatrice](Animation calclatrice.gif)
+- 
